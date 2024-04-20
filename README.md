@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Arslan Khan
+- 👨‍🎓 I study in Ghulam Ishaq Khan Institute 
+- 🌱 I’m currently pursuing my Bachelors degree in Cyber security
