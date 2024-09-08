@@ -19,6 +19,10 @@ I'm a passionate student of Cybersecurity currently pursuing my Bachelor's degre
 ## 📈 GitHub Stats
 
 <p align="center">
+  ## 📈 GitHub Stats
+
+![Arsalan's All Time GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsal7477&theme=radical" />
 </p>
