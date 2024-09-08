@@ -19,8 +19,8 @@ I'm a passionate student of Cybersecurity currently pursuing my Bachelor's degre
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=**arsal7477**&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=**arsal7477**&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsal7477&theme=radical" />
 </p>
 
 ## 🚀 Featured Projects
