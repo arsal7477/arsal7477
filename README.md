@@ -2,7 +2,7 @@
 
 I'm a passionate student of Cybersecurity currently pursuing my Bachelor's degree at **Ghulam Ishaq Khan Institute (GIKI)**. I love learning about security, ethical hacking, and everything that makes the digital world safer! 
 
-- 🎓 **Education:** Bachelor’s in Cybersecurity, Ghulam Ishaq Khan Institute (2022 -2026)
+- 🎓 **Education:** Bachelor’s in Cybersecurity, Ghulam Ishaq Khan Institute (2022 - 2026)
 - 💡 **Interests:** Digital Forensics, Security Automation, Capture The Flag (CTF) Challenges, Cybersecurity Projects, Ethical Hacking, and Penetration Testing
 - 💬 **Ask Me About:** Cybersecurity, Linux, Networking, and Open-Source Tools
 - ✉️ **How to reach me:** arsalanswat7@email.com
@@ -19,8 +19,8 @@ I'm a passionate student of Cybersecurity currently pursuing my Bachelor's degre
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=**arsal7477**&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=**arsal7477**&theme=radical" />
 </p>
 
 ## 🚀 Featured Projects
@@ -35,5 +35,3 @@ This project is an Assembly Language Simulator built using Python and Tkinter. I
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arsalan-khan-860575272)
 [![Email](https://img.shields.io/badge/Email-Here-blue)](mailto:arsalanswat7@email.com)
-
-
