@@ -39,8 +39,7 @@ Details about your experiences and contributions to CTF challenges, with some hi
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourtwitterhandle)
-[![Email](https://img.shields.io/badge/Email-Here-blue)](mailto:arsalan.khan@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arsalan-khan-860575272)
+[![Email](https://img.shields.io/badge/Email-Here-blue)](mailto:arsalanswat7@email.com)
 
 
