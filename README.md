@@ -1,8 +1,5 @@
 ## 👋 Hello, I'm Arsalan Khan!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername?tab=followers)
-
 I'm a passionate student of Cybersecurity currently pursuing my Bachelor's degree at **Ghulam Ishaq Khan Institute (GIKI)**. I love learning about security, ethical hacking, and everything that makes the digital world safer! 
 
 - 🎓 **Education:** Bachelor’s in Cybersecurity, Ghulam Ishaq Khan Institute (2022 -2026)
@@ -30,11 +27,9 @@ I'm a passionate student of Cybersecurity currently pursuing my Bachelor's degre
 
 ### [Project 1: Database Management System](https://github.com/arsal7477/gikibazar)
 A semester-long Database Management Systems application designed as an online buy/sell platform for GIK Institute. It allows users to create profiles, list products with images and descriptions, and filter items available on campus. The app features an Entity-Relationship model connecting users to their listed products, with optional product postings and mandatory user-product associations. Designed with Figma for the frontend and developed using Flutter, the project showcases a comprehensive implementation of database management principles and app development skills.
-### [Project 2: Network Security Simulation](https://github.com/yourusername/project2)
-A brief description of this project with some interesting features or results you've achieved.
 
-### [Project 3: Capture the Flag Challenges](https://github.com/yourusername/project3)
-Details about your experiences and contributions to CTF challenges, with some highlights.
+### [Project 2: Computer Organization and Assembly Language](https://github.com/arsal7477/Computer-Organization-and-Assembly-language)
+This project is an Assembly Language Simulator built using Python and Tkinter. It provides a graphical interface where users can load assembly code from a file, run it, and step through instructions one line at a time. The simulator supports a range of assembly instructions such as loading, storing, arithmetic operations, bitwise operations, and program flow control. Users can also view the state of CPU registers and RAM, and observe program outputs. The project is ideal for those looking to understand assembly language execution in a simulated environment.
 
 ## 📫 Let's Connect!
 
