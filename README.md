@@ -28,9 +28,8 @@ I'm a passionate student of Cybersecurity currently pursuing my Bachelor's degre
 
 ## 🚀 Featured Projects
 
-### [Project 1: Cyber Defense System](https://github.com/yourusername/project1)
-A brief description of this project, what makes it interesting, and why it's impactful.
-
+### [Project 1: Database Management System](https://github.com/yourusername/project1)
+A semester-long Database Management Systems application designed as an online buy/sell platform for GIK Institute. It allows users to create profiles, list products with images and descriptions, and filter items available on campus. The app features an Entity-Relationship model connecting users to their listed products, with optional product postings and mandatory user-product associations. Designed with Figma for the frontend and developed using Flutter, the project showcases a comprehensive implementation of database management principles and app development skills.
 ### [Project 2: Network Security Simulation](https://github.com/yourusername/project2)
 A brief description of this project with some interesting features or results you've achieved.
 
