@@ -5,12 +5,10 @@
 
 I'm a passionate student of Cybersecurity currently pursuing my Bachelor's degree at **Ghulam Ishaq Khan Institute (GIKI)**. I love learning about security, ethical hacking, and everything that makes the digital world safer! 
 
-- 🎓 **Education:** Bachelor’s in Cybersecurity, Ghulam Ishaq Khan Institute
-- 🔭 **Currently Working On:** Cybersecurity Projects, Ethical Hacking, and Penetration Testing
-- 🌱 **Learning:** Advanced Threat Detection, Malware Analysis, and Cyber Forensics
-- 💡 **Interests:** Digital Forensics, Security Automation, Capture The Flag (CTF) Challenges
+- 🎓 **Education:** Bachelor’s in Cybersecurity, Ghulam Ishaq Khan Institute (2022 -2026)
+- 💡 **Interests:** Digital Forensics, Security Automation, Capture The Flag (CTF) Challenges, Cybersecurity Projects, Ethical Hacking, and Penetration Testing
 - 💬 **Ask Me About:** Cybersecurity, Linux, Networking, and Open-Source Tools
-- ✉️ **How to reach me:** arsalan.khan@email.com
+- ✉️ **How to reach me:** arsalanswat7@email.com
 - ⚡ **Fun Fact:** I can break things apart to understand them better!
 
 ## 🛠️ Technologies & Tools
