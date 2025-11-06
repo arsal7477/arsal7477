@@ -6,6 +6,7 @@ I'm a passionate student of Cybersecurity currently pursuing my Bachelor's degre
 - 💡 **Interests:** Digital Forensics, Security Automation, Capture The Flag (CTF) Challenges, Cybersecurity Projects, Ethical Hacking, and Penetration Testing
 - 💬 **Ask Me About:** Cybersecurity, Linux, Networking, and Open-Source Tools
 - ✉️ **How to reach me:** arsalanswat7@email.com
+- 📫 **Portfolio:** ![Arsalan's Portfolio](https://arsal7477.github.io/arsalan-portfolio/)
 - ⚡ **Fun Fact:** I can break things apart to understand them better!
 
 ## 🛠️ Technologies & Tools
