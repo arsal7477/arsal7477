@@ -1,40 +1,73 @@
-## 👋 Hello, I'm Arsalan Khan!
-
-I'm a passionate student of Cybersecurity currently pursuing my Bachelor's degree at **Ghulam Ishaq Khan Institute (GIKI)**. I love learning about security, ethical hacking, and everything that makes the digital world safer! 
-
-- 🎓 **Education:** Bachelor’s in Cybersecurity, Ghulam Ishaq Khan Institute (2022 - 2026)
-- 💡 **Interests:** Digital Forensics, Security Automation, Capture The Flag (CTF) Challenges, Cybersecurity Projects, Ethical Hacking, and Penetration Testing
-- 💬 **Ask Me About:** Cybersecurity, Linux, Networking, and Open-Source Tools
-- ✉️ **How to reach me:** arsalanswat7@email.com
-- 📫 **Portfolio:** [Arsalan's Portfolio](https://arsal7477.github.io/arsalan-portfolio/)
-- ⚡ **Fun Fact:** I can break things apart to understand them better!
-
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Networking](https://img.shields.io/badge/-Networking-05122A?style=flat&logo=cisco)
-![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-05122A?style=flat&logo=hackaday)
-
-## 📈 GitHub Stats
-
 <p align="center">
-  ## 📈 GitHub Stats
-
-![Arsalan's All Time GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsal7477&theme=radical" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Arsalan%20Khan&fontSize=70&animation=fadeIn" />
 </p>
 
-## 🚀 Featured Projects
+<p align="center">
+  <a href="https://www.linkedin.com/in/arsalan-khan-860575272"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arsalanswat7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://arsal7477.github.io/arsalan-portfolio/"><img src="https://img.shields.io/badge/Portfolio-28a745?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
-### [Project 1: Database Management System](https://github.com/arsal7477/gikibazar)
-A semester-long Database Management Systems application designed as an online buy/sell platform for GIK Institute. It allows users to create profiles, list products with images and descriptions, and filter items available on campus. The app features an Entity-Relationship model connecting users to their listed products, with optional product postings and mandatory user-product associations. Designed with Figma for the frontend and developed using Flutter, the project showcases a comprehensive implementation of database management principles and app development skills.
+---
 
-### [Project 2: Computer Organization and Assembly Language](https://github.com/arsal7477/Computer-Organization-and-Assembly-language)
-This project is an Assembly Language Simulator built using Python and Tkinter. It provides a graphical interface where users can load assembly code from a file, run it, and step through instructions one line at a time. The simulator supports a range of assembly instructions such as loading, storing, arithmetic operations, bitwise operations, and program flow control. Users can also view the state of CPU registers and RAM, and observe program outputs. The project is ideal for those looking to understand assembly language execution in a simulated environment.
+### 🛡️ Cybersecurity Enthusiast & Final Year Student
+[cite_start]I am a passionate **Cybersecurity major** at **GIK Institute**[cite: 25, 26]. [cite_start]I specialize in defensive security, ethical hacking, and building intelligent systems to detect threats[cite: 7, 81]. My goal is to bridge the gap between complex security protocols and seamless user experiences.
 
-## 📫 Let's Connect!
+- [cite_start]🔭 **Currently working on:** `TrustChain` — A Blockchain-based Secure Voting System[cite: 28].
+- [cite_start]⚡ **Technical Focus:** SOC Operations, Penetration Testing, and AI-driven Threat Detection[cite: 9, 81, 82].
+- [cite_start]🎓 **Education:** BS in Cyber Security (Class of 2026)[cite: 24, 26].
+- [cite_start]🏅 **Achievement:** 5x Dean's Honor Roll recipient[cite: 87, 88, 89].
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arsalan-khan-860575272)
-[![Email](https://img.shields.io/badge/Email-Here-blue)](mailto:arsalanswat7@email.com)
+---
+
+### 🚀 Technical Toolbox
+
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Security & Infrastructure</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/kali-linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/metasploit-%231565C0.svg?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+</details>
+
+---
+
+### 📊 My GitHub Journey
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsal7477&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=7aa2f7&fire=e06c75" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsal7477&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" />
+</p>
+
+---
+
+### 📂 Top Contributions
+* [cite_start]**[TrustChain](https://github.com/arsal7477)**: Blockchain-powered voting security[cite: 28].
+* [cite_start]**[Malware Detection](https://github.com/arsal7477)**: Traffic analysis using PyTorch and Scapy[cite: 30].
+* [cite_start]**[QRGenX](https://github.com/arsal7477)**: Cloud-native infrastructure and automation[cite: 51, 52].
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <b>Visitor Count</b><br>
+  <img src="https://komarev.com/ghpvc/?username=arsal7477&color=7aa2f7&style=flat-square" />
+</p>
