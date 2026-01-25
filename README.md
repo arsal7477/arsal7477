@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arsalan-khan-860575272"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arsalanswat7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://arsal7477.github.io/arsalan-portfolio/"><img src="https://img.shields.io/badge/Portfolio-28a745?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arsalan-khan-860575272" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:arsalanswat7@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://arsal7477.github.io/arsalan-portfolio/" target="blank"><img src="https://img.shields.io/badge/portfolio-%2328a745.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
