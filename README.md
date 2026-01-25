@@ -17,7 +17,6 @@
 - **Base**: GIK Institute, Pakistan
 - **Uptime**: 8th Semester / Final Year Student
 - **Active_Mission**: TrustChain - Blockchain-based Secure Voting
-- **Clearance**: 5x Dean's Honor Roll recipient
 
 ---
 
