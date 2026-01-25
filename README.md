@@ -12,19 +12,12 @@
 
 ### 📡 System Overview
 **arsalan@giki:~$** ./show_profile.sh
-- [cite_start]**User**: Arsalan Khan [cite: 2]
-- [cite_start]**Role**: Cybersecurity Analyst & Red Team Enthusiast [cite: 7, 18]
-- [cite_start]**Base**: GIK Institute, Pakistan [cite: 24, 26]
-- [cite_start]**Uptime**: 8th Semester / Final Year Student [cite: 7]
-- [cite_start]**Active_Mission**: TrustChain - Blockchain-based Secure Voting [cite: 28]
-- [cite_start]**Clearance**: 5x Dean's Honor Roll recipient [cite: 87, 89]
-
----
-
-### 🏆 Achievement Unlock
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arsal7477&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="Trophies" />
-</p>
+- **User**: Arsalan Khan
+- **Role**: Cybersecurity Analyst & Red Team Enthusiast
+- **Base**: GIK Institute, Pakistan
+- **Uptime**: 8th Semester / Final Year Student
+- **Active_Mission**: TrustChain - Blockchain-based Secure Voting
+- **Clearance**: 5x Dean's Honor Roll recipient
 
 ---
 
@@ -40,10 +33,10 @@
 
 | Protocol | Objective | Tech Stack |
 | :--- | :--- | :--- |
-| **TrustChain** | [cite_start]Secure Voting via Blockchain Integrity [cite: 28] | Quorum, Solidity, Python |
-| **Malware Lab** | [cite_start]99.88% Accuracy Traffic Pattern Recognition [cite: 33] | [cite_start]PyTorch, Scapy, LightGBM [cite: 30] |
-| **Active Defense** | [cite_start]3-Zone Corporate Network VA System [cite: 41] [cite_start]| pfSense, Wazuh, Suricata [cite: 38, 42] |
-| **QRGenX** | [cite_start]Scalable Cloud Infrastructure & CI/CD [cite: 51, 55] | [cite_start]AWS, Terraform, Docker [cite: 52] |
+| **TrustChain** | Secure Voting via Blockchain Integrity | Quorum, Solidity, Python |
+| **Malware Lab** | 99.88% Accuracy Traffic Pattern Recognition | PyTorch, Scapy, LightGBM |
+| **Active Defense** | 3-Zone Corporate Network VA System | pfSense, Wazuh, Suricata |
+| **QRGenX** | Scalable Cloud Infrastructure & CI/CD | AWS, Terraform, Docker |
 
 </div>
 
@@ -57,13 +50,17 @@
 
 ---
 
-### 📈 Multi-Year Activity Stream
+### 📈 Full Timeline Archive (Multi-Year)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsal7477&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000&custom_title=2-Year%20Contribution%20Metrics" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsal7477&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsal7477&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  [cite_start]<i>"I break things apart so I can understand how to build them stronger." [cite: 10]</i>
+  <i>"I break things apart so I can understand how to build them stronger."</i>
 </p>
