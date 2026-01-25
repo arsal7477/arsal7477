@@ -11,13 +11,13 @@
 ---
 
 ### 📡 System Overview
-**arsalan@giki:~$** ./show_profile.sh
-- **User**: Arsalan Khan
-- **Role**: Cybersecurity Analyst & Red Team Enthusiast
-- **Base**: GIK Institute, Pakistan
-- **Uptime**: 8th Semester / Final Year Student
-- **Active_Mission**: TrustChain - Blockchain-based Secure Voting
-- **Clearance**: 5x Dean's Honor Roll recipient
+**arsalan@giki:~$** ./show_profile.sh  
+**User**: Arsalan Khan  
+**Role**: Cybersecurity Analyst & Red Team Enthusiast  
+**Base**: GIK Institute, Pakistan  
+**Uptime**: 8th Semester / Final Year Student  
+**Active_Mission**: TrustChain - Blockchain-based Secure Voting  
+**Clearance**: 5x Dean's Honor Roll recipient  
 
 ---
 
@@ -50,13 +50,9 @@
 
 ---
 
-### 📈 Full Timeline Archive (Multi-Year)
+### 📈 2-Year Archive Timeline
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsal7477&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsal7477&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsal7477&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000&point=false&custom_title=Full%20Contribution%20History" width="100%" />
 </p>
 
 ---
