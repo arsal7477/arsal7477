@@ -11,13 +11,20 @@
 ---
 
 ### 📡 System Overview
-[cite_start]**arsalan@giki:~$** ./show_profile.sh [cite: 2, 26]
-- [cite_start]**User**: Arsalan Khan [cite: 2]
-- [cite_start]**Role**: Cybersecurity Analyst & Red Team Enthusiast [cite: 7, 9, 18]
-- [cite_start]**Base**: GIK Institute, Topi, Pakistan [cite: 24, 25, 26]
-- [cite_start]**Uptime**: 8th Semester Student [cite: 7]
-- [cite_start]**Active_Mission**: TrustChain - Blockchain-based Secure Voting [cite: 28]
-- [cite_start]**Clearance**: 5x Dean's Honor Roll recipient [cite: 87, 88, 89]
+**arsalan@giki:~$** ./show_profile.sh
+- **User**: Arsalan Khan
+- **Role**: Cybersecurity Analyst & Red Team Enthusiast
+- **Base**: GIK Institute, Pakistan
+- **Uptime**: 8th Semester / Final Year Student
+- **Active_Mission**: TrustChain - Blockchain-based Secure Voting
+- **Clearance**: 5x Dean's Honor Roll recipient
+
+---
+
+### 🏆 Achievement Unlock
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arsal7477&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="Trophies" />
+</p>
 
 ---
 
@@ -31,12 +38,12 @@
 ### ☣️ Lab Reports & Projects
 <div align="center">
 
-| Protocol | Objective | Stack |
+| Protocol | Objective | Tech Stack |
 | :--- | :--- | :--- |
-| [cite_start]**TrustChain** [cite: 28] | Secure Voting via Blockchain Integrity | Quorum, Solidity, Python |
-| [cite_start]**Malware Lab** [cite: 30] | 99.88% Accuracy Traffic Recognition | PyTorch, Scapy, LightGBM |
-| [cite_start]**Active Defense** [cite: 37] | 3-Zone Corporate Network VA System | pfSense, Wazuh, Suricata |
-| [cite_start]**QRGenX** [cite: 51] | Scalable Cloud Infrastructure & CI/CD | AWS, Terraform, Docker |
+| **TrustChain** | Secure Voting via Blockchain Integrity | Quorum, Solidity, Python |
+| **Malware Lab** | 99.88% Accuracy Traffic Pattern Recognition | PyTorch, Scapy, LightGBM |
+| **Active Defense** | 3-Zone Corporate Network VA System | pfSense, Wazuh, Suricata |
+| **QRGenX** | Scalable Cloud Infrastructure & CI/CD | AWS, Terraform, Docker |
 
 </div>
 
@@ -44,19 +51,19 @@
 
 ### 🕹️ Terminal Activity
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide=c%2B%2B" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide=c%2B%2B,c" />
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsal7477&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&hide=c%2B%2B,c" />
 </p>
 
 ---
 
-### 🐍 Contribution Network
+### ⚡ Technical Commits
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arsal7477/arsal7477/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsal7477&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  [cite_start]<i>"I break things apart so I can understand how to build them stronger."</i> [cite: 10, 21]
+  <i>"I break things apart so I can understand how to build them stronger."</i>
 </p>
