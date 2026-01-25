@@ -42,7 +42,6 @@
 
 ### 🕹️ Terminal Activity
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide=c%2B%2B,c" />
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsal7477&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&hide=c%2B%2B,c" />
 </p>
 
