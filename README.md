@@ -1,5 +1,7 @@
-# Arsalan Khan
+# 👨‍💼 Arsalan Khan
+I am a final-year Cybersecurity student at the **Ghulam Ishaq Khan Institute (GIKI)** with a strong focus on network defense, threat intelligence, and penetration testing. Through hands-on internships experiences, I have developed practical skills in SOC monitoring, vulnerability assessment, and red teaming. I am passionate about leveraging technical innovation, such as blockchain and machine learning, to solve complex real-world security challenges.
 
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/arsalan-khan-860575272">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -13,13 +15,6 @@
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
-
-### 👨‍💼 Professional Profile
-I am a final-year Cybersecurity student at the **Ghulam Ishaq Khan Institute (GIKI)** with a strong focus on network defense, threat intelligence, and penetration testing. Through hands-on internships experiences, I have developed practical skills in SOC monitoring, vulnerability assessment, and red teaming. I am passionate about leveraging technical innovation, such as blockchain and machine learning, to solve complex real-world security challenges.
-
----
 
 ---
 
