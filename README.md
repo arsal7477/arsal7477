@@ -1,13 +1,12 @@
 # Arsalan Khan
-### **Cybersecurity Specialist | Red Team & SOC Enthusiast**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arsalan-khan-860575272">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-2E3333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:arsalanswat7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-2E3333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://arsal7477.github.io/arsalan-portfolio/">
