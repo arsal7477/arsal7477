@@ -11,7 +11,6 @@
 ---
 
 ### 📡 System Overview
-**arsalan@giki:~$** ./show_profile.sh
 - **User**: Arsalan Khan
 - **Role**: Cybersecurity Analyst & Red Team Enthusiast
 - **Base**: GIK Institute, Pakistan
@@ -27,7 +26,7 @@
 
 ---
 
-### ☣️ Lab Reports & Projects
+### ☣️ Recent Reports & Projects
 <div align="center">
 
 | Protocol | Objective | Tech Stack |
