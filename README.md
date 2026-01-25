@@ -8,11 +8,11 @@
   </a>
   &nbsp;
   <a href="mailto:arsalanswat7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://arsal7477.github.io/arsalan-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-6E5494?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -20,12 +20,12 @@
 
 ### 📡 System Overview
 **arsalan@giki:~$** ./show_profile.sh
-- **User**: Arsalan Khan
-- **Role**: Cybersecurity Analyst & Red Team Enthusiast
-- **Base**: GIK Institute, Pakistan
-- **Uptime**: 8th Semester / Final Year Student
-- **Active_Mission**: TrustChain - Blockchain-based Secure Voting
-- **Clearance**: 5x Dean's Honor Roll recipient
+- [cite_start]**User**: Arsalan Khan [cite: 2]
+- [cite_start]**Role**: Cybersecurity Analyst & Red Team Enthusiast [cite: 7, 18]
+- [cite_start]**Base**: GIK Institute, Pakistan [cite: 24, 26]
+- [cite_start]**Uptime**: 8th Semester / Final Year Student [cite: 7]
+- [cite_start]**Active_Mission**: TrustChain - Blockchain-based Secure Voting [cite: 28]
+- [cite_start]**Clearance**: 5x Dean's Honor Roll recipient [cite: 87, 88, 89]
 
 ---
 
@@ -41,10 +41,10 @@
 
 | Protocol | Objective | Tech Stack |
 | :--- | :--- | :--- |
-| **TrustChain** | Secure Voting via Blockchain Integrity | Quorum, Solidity, Python |
-| **Malware Lab** | 99.88% Accuracy Traffic Pattern Recognition | PyTorch, Scapy, LightGBM |
-| **Active Defense** | 3-Zone Corporate Network VA System | pfSense, Wazuh, Suricata |
-| **QRGenX** | Scalable Cloud Infrastructure & CI/CD | AWS, Terraform, Docker |
+| **TrustChain** | [cite_start]Secure Voting via Blockchain Integrity [cite: 28] | Quorum, Solidity, Python |
+| **Malware Lab** | [cite_start]99.88% Accuracy Traffic Pattern Recognition [cite: 33] | [cite_start]PyTorch, Scapy, LightGBM [cite: 30] |
+| **Active Defense** | [cite_start]3-Zone Corporate Network VA System [cite: 41] [cite_start]| pfSense, Wazuh, Suricata [cite: 38] |
+| **QRGenX** | [cite_start]Scalable Cloud Infrastructure & CI/CD [cite: 51] | [cite_start]AWS, Terraform, Docker [cite: 52] |
 
 </div>
 
@@ -52,8 +52,8 @@
 
 ### 🕹️ Terminal Activity
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide=c%2B%2B,c" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsal7477&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&hide=c%2B%2B,c" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide=c%2B%2B,c" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsal7477&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=ffffff&hide=c%2B%2B,c" />
 </p>
 
 ---
