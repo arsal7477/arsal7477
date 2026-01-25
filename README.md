@@ -11,13 +11,13 @@
 ---
 
 ### 📡 System Overview
-**arsalan@giki:~$** ./show_profile.sh  
-[cite_start]**User**: Arsalan Khan [cite: 2]  
-[cite_start]**Role**: Cybersecurity Analyst & Red Team Enthusiast [cite: 7, 18]  
-[cite_start]**Base**: GIK Institute, Pakistan [cite: 24, 26]  
-[cite_start]**Uptime**: 8th Semester / Final Year Student [cite: 7]  
-[cite_start]**Active_Mission**: TrustChain - Blockchain-based Secure Voting [cite: 28]  
-[cite_start]**Clearance**: 5x Dean's Honor Roll recipient [cite: 87, 88, 89]  
+**arsalan@giki:~$** ./show_profile.sh
+- **User**: Arsalan Khan
+- **Role**: Cybersecurity Analyst & Red Team Enthusiast
+- **Base**: GIK Institute, Pakistan
+- **Uptime**: 8th Semester / Final Year Student
+- **Active_Mission**: TrustChain - Blockchain-based Secure Voting
+- **Clearance**: 5x Dean's Honor Roll recipient
 
 ---
 
@@ -33,10 +33,10 @@
 
 | Protocol | Objective | Tech Stack |
 | :--- | :--- | :--- |
-| **TrustChain** | [cite_start]Secure Voting via Blockchain Integrity [cite: 28] | [cite_start]Quorum, Solidity, Python [cite: 28] |
-| **Malware Lab** | [cite_start]99.88% Accuracy Traffic Pattern Recognition [cite: 33] | [cite_start]PyTorch, Scapy, LightGBM [cite: 30] |
-| **Active Defense** | [cite_start]3-Zone Corporate Network VA System [cite: 41] [cite_start]| pfSense, Wazuh, Suricata [cite: 38] |
-| **QRGenX** | [cite_start]Scalable Cloud Infrastructure & CI/CD [cite: 54, 55] | [cite_start]AWS, Terraform, Docker [cite: 52] |
+| **TrustChain** | Secure Voting via Blockchain Integrity | Quorum, Solidity, Python |
+| **Malware Lab** | 99.88% Accuracy Traffic Pattern Recognition | PyTorch, Scapy, LightGBM |
+| **Active Defense** | 3-Zone Corporate Network VA System | pfSense, Wazuh, Suricata |
+| **QRGenX** | Scalable Cloud Infrastructure & CI/CD | AWS, Terraform, Docker |
 
 </div>
 
@@ -52,13 +52,13 @@
 
 ### 📈 Multi-Year Contribution Archive
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arsal7477&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arsal7477&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arsal7477&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsal7477&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsal7477&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arsal7477&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arsal7477&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arsal7477&theme=tokyonight" width="32%" />
 </p>
 
 ---
