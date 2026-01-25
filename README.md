@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Accessing+Arsalan's+Terminal...;Identity+Verified:+Cyber+Analyst;Initializing+Security+Protocols...;Welcome+to+the+Safe+Zone." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Accessing+Arsalan's+Terminal...;Identity+Verified:+Cyber+Analyst;Initializing+Security+Protocols...;Welcome+to+the+Safe+Zone." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -52,15 +52,10 @@
 
 ### 🐍 Contribution Network
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arsal7477/arsal7477/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-link-to-snake-generator-output.svg" alt="Snake animation placeholder" />
 </p>
 
 ---
-
-### 💡 Motivational Logic
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
-</p>
 
 <p align="center">
   <i>"I break things apart so I can understand how to build them stronger."</i>
