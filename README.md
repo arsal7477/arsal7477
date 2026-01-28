@@ -55,7 +55,7 @@ I am a final-year Cybersecurity student at the **Ghulam Ishaq Khan Institute (GI
 
 ---
 
-### 📈 Multi-Year Contribution Archive
+### 📈 Contribution Archive
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsal7477&theme=tokyonight" width="100%" />
 </p>
